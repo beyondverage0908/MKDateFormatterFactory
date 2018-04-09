@@ -16,6 +16,7 @@
 		337C054F207BBBDE00B66A24 /* MKDateFormatterFactory_SampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 337C054E207BBBDE00B66A24 /* MKDateFormatterFactory_SampleTests.m */; };
 		337C055A207BBBDE00B66A24 /* MKDateFormatterFactory_SampleUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 337C0559207BBBDE00B66A24 /* MKDateFormatterFactory_SampleUITests.m */; };
 		337C056A207BBC4200B66A24 /* MKDateFormatterFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 337C0569207BBC4200B66A24 /* MKDateFormatterFactory.m */; };
+		337C056C207BC2A200B66A24 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 337C056B207BC2A200B66A24 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		337C055B207BBBDE00B66A24 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		337C0568207BBC4200B66A24 /* MKDateFormatterFactory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MKDateFormatterFactory.h; sourceTree = "<group>"; };
 		337C0569207BBC4200B66A24 /* MKDateFormatterFactory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MKDateFormatterFactory.m; sourceTree = "<group>"; };
+		337C056B207BC2A200B66A24 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +116,7 @@
 				337C0540207BBBDE00B66A24 /* LaunchScreen.storyboard */,
 				337C0543207BBBDE00B66A24 /* Info.plist */,
 				337C0544207BBBDE00B66A24 /* main.m */,
+				337C056B207BC2A200B66A24 /* README.md */,
 			);
 			path = "MKDateFormatterFactory-Sample";
 			sourceTree = "<group>";
@@ -251,6 +254,7 @@
 			files = (
 				337C0542207BBBDE00B66A24 /* LaunchScreen.storyboard in Resources */,
 				337C053F207BBBDE00B66A24 /* Assets.xcassets in Resources */,
+				337C056C207BC2A200B66A24 /* README.md in Resources */,
 				337C053D207BBBDC00B66A24 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
